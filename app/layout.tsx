@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://kamalwagle.dev',
+    url: 'https://kamalwagle.com.np',
     title: 'Kamal Wagle - Full-Stack Web Developer | MERN Stack Expert Nepal',
     description: 'Full-Stack Web Developer and BSc CSIT student from Surkhet, Nepal. Specializing in MERN Stack, Next.js, React, and payment integrations.',
     siteName: 'Kamal Wagle Portfolio',
@@ -74,7 +74,7 @@ export default function RootLayout({
               "name": "Kamal Wagle",
               "jobTitle": "Full-Stack Web Developer",
               "description": "Full-Stack Web Developer and BSc CSIT student specializing in MERN Stack",
-              "url": "https://kamalwagle.dev",
+              "url": "https://kamalwagle.com.np",
               "sameAs": [
                 "https://github.com/kamalwagle",
                 "https://linkedin.com/in/kamalwagle"
